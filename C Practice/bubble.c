@@ -32,7 +32,7 @@ int main() {
   }
 
   /* Prints the list after it is sorted */
-  printf("\nHere is the list after the sort: ");
+  printf("\nHere is the list after the sort:\n");
   for (ctr = 0; ctr < 10; ctr++)
     printf("%d\n", nums[ctr]);
   return 0;
